@@ -7,5 +7,6 @@ public class GitTest{
         System.out.println("hello yhr333!");
         System.out.println("hello yhr555!");
         System.out.println("fixed!");
+        System.out.println("remote fix!");
     }
 }
